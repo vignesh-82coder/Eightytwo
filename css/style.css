@@ -1,0 +1,21 @@
+h1{
+  color:white;
+}
+h3{
+  color:white;
+}
+h4{
+  color:white;
+}
+body{
+background-color: black;
+    font-family:cursive;
+}
+hr{
+border-style:none;
+border-top-style:solid;
+border-color: white;
+border-width: 2px;
+width: 90%;
+
+}
