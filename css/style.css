@@ -1,15 +1,18 @@
-h1{
-  color:white;
-}
-h3{
-  color:white;
-}
-h4{
-  color:white;
-}
 body{
+  text-align: center;
 background-color: black;
     font-family:monospace;
+}
+.brand{
+  display:inline;
+  color:white;
+  font-size:14px;
+font-family:Candara;
+position: relative;
+right:0;
+left:40px;
+top:30px;
+  letter-spacing: 12px;
 }
 hr{
 border-style:none;
@@ -17,5 +20,40 @@ border-top-style:solid;
 border-color: white;
 border-width: 2px;
 width: 90%;
+}
+.logo{
+  display: block;
 
+position:relative;
+  left:360px;
+  top:56px;
+     width: 22%;
+height: 19%;
+}
+.you{
+  position: fixed;
+  right:175px;
+  top:270px;
+}
+.ins{
+  position: fixed;
+  right:112px;
+  top:266px;
+}
+.fb{
+  position: fixed;
+  right:75px;
+  top:270px;
+}
+.de{
+  display: inline;
+  color:white;
+  font-size: 40px;
+  font-style: italic;
+  font-family:Impact;
+
+  position:absolute;
+  top:30px;
+  left:200px;
+  letter-spacing: 10px;
 }
