@@ -8,10 +8,10 @@ background-color: black;
   color:white;
   font-size:14px;
 font-family:Candara;
-position: relative;
+position:fixed;
 right:0;
 left:40px;
-top:30px;
+top:260px;
   letter-spacing: 12px;
 }
 hr{
@@ -20,40 +20,28 @@ border-top-style:solid;
 border-color: white;
 border-width: 2px;
 width: 90%;
+position:fixed;
+left:50px;
+top:300px;
 }
-.logo{
+.logom{
   display: block;
+position:fixed;
+left:250px;
 
-position:relative;
-  left:360px;
-  top:56px;
-     width: 22%;
-height: 19%;
 }
 .you{
   position: fixed;
-  right:175px;
-  top:270px;
+  right:145px;
+  top:210px;
 }
 .ins{
   position: fixed;
-  right:112px;
-  top:266px;
+  right:82px;
+  top:206px;
 }
 .fb{
   position: fixed;
-  right:75px;
-  top:270px;
-}
-.de{
-  display: inline;
-  color:white;
-  font-size: 40px;
-  font-style: italic;
-  font-family:Impact;
-
-  position:absolute;
-  top:30px;
-  left:200px;
-  letter-spacing: 10px;
+  right:50px;
+  top:210px;
 }
